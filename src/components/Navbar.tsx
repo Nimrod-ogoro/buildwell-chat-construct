@@ -36,6 +36,12 @@ const Navbar = () => {
               Services
             </button>
             <button
+              onClick={() => scrollToSection("merchandise")}
+              className="text-foreground hover:text-primary transition-colors"
+            >
+              Merchandise
+            </button>
+            <button
               onClick={() => scrollToSection("about")}
               className="text-foreground hover:text-primary transition-colors"
             >
@@ -78,6 +84,12 @@ const Navbar = () => {
                 className="block px-3 py-2 text-foreground hover:text-primary transition-colors w-full text-left"
               >
                 Services
+              </button>
+              <button
+                onClick={() => scrollToSection("merchandise")}
+                className="block px-3 py-2 text-foreground hover:text-primary transition-colors w-full text-left"
+              >
+                Merchandise
               </button>
               <button
                 onClick={() => scrollToSection("about")}
