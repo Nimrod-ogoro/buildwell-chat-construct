@@ -38,16 +38,16 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
-              <li className="text-background/80">(555) 123-4567</li>
-              <li className="text-background/80">info@buildwell.com</li>
-              <li className="text-background/80">123 Construction Ave<br />Suite 100, City, State 12345</li>
+              <li className="text-background/80">(254) 0796643331</li>
+              <li className="text-background/80">nimrodogoro@gmail.com</li>
+              <li className="text-background/80">123 Construction Ave<br />Nairobi, Kenya</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-background/20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-background/60 text-sm">
-            © 2024 BuildWell Construction. All rights reserved.
+            © 2025 build by Nimrod Ogoro. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-background/60 hover:text-primary text-sm transition-colors">Privacy Policy</a>
